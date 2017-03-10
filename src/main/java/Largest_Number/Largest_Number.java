@@ -22,7 +22,7 @@ public class Largest_Number {
         }
         Arrays.sort(strArray,new MyComparetor<String>());
         for(int i = 0;i < strArray.length;i++){
-            System.out.print(strArray[i]+" ");
+            System.out.print(strArray[i]+"  ");
         }
         StringBuilder sb = new StringBuilder("");
         for(String s:strArray){
