@@ -1,0 +1,5 @@
+\contentsline {subsubsection}{内容简介}{i}{subsubsection*.1}
+\contentsline {subsubsection}{GitHub地址}{i}{subsubsection*.2}
+\contentsline {chapter}{\numberline {第1章\hspace {.3em}}编程技巧}{1}{chapter.1}
+\contentsline {subsubsection}{vector和string优先于动态分配的数组}{1}{subsubsection*.4}
+\contentsline {subsubsection}{使用reserve来避免不必要的重新分配}{1}{subsubsection*.5}
